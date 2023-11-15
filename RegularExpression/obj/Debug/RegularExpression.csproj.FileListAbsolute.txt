@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-8\Assignment-13(Day-8)\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+C:\mphasis-B2\Day-8\Assignment-13(Day-8)\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+C:\mphasis-B2\Day-8\Assignment-13(Day-8)\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+C:\mphasis-B2\Day-8\Assignment-13(Day-8)\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-8\Assignment-13(Day-8)\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-8\Assignment-13(Day-8)\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+C:\mphasis-B2\Day-8\Assignment-13(Day-8)\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb
